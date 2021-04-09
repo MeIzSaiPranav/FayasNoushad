@@ -13,6 +13,6 @@
         <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
         <tr><th scope='row'>Relegion</th><td>Islam</td></tr>
         <tr><th scope='row'>Website</th><td><a href="https://www.fayas.cf">fayas.cf</a></td></tr>
-        <tr><th scope='row'>Accounts</th><td><a href='https://twitter.com/FayasNoushad'>Twitter</a>, <a href='https://youtube.com/c/FayasNoushad'>YouTube</a>, <a href='https://github.com/FayasNoushad'>GitHub</a>, <a href='https://telegram.me/FayasNoushad'>Telegram</a>, <a href='https://linkedin.com/in/FayasNoushad'>LinkedIn</a>, <a href='https://facebook.com/TheFayas'>Facebook</a>, <a href='https://instagram.com/TheFayas'>Instagram</a></td></tr>
+        <tr><th scope='row'>Accounts</th><td><a href='https://twitter.com/FayasNoushad'>Twitter</a>, <a href='https://github.com/FayasNoushad'>GitHub</a>, <a href='https://telegram.me/FayasNoushad'>Telegram</a>, <a href='https://linkedin.com/in/FayasNoushad'>LinkedIn</a>, <a href='https://instagram.com/TheFayas'>Instagram</a></td></tr>
     </tbody>
 </table>
