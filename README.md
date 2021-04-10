@@ -1,4 +1,3 @@
-<h1>Profile</h1>
 <table>
   <tr> <th colspan="2"><strong>About Me</strong></th></tr>
     <tbody>
