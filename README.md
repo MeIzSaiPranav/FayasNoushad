@@ -6,7 +6,7 @@
         <tr><th scope='row'>Born on</th><td>30th December 2005</td></tr>
         <tr><th scope='row'>Age</th><td>15 years old boy</td></tr>
         <tr><th scope='row'>Education</th><td>Studying in 10th Standard</td></tr>
-        <tr><th scope='row'>Studying in</th><td>Puliyaparamb Higher Secondary School</td></tr>
+        <tr><th scope='row'>Studying in</th><td>Puliyaparamba Higher Secondary School</td></tr>
         <tr><th scope='row'>Living Place</th><td>N.K Nagar, Kallekkad, Palakkad, Kerala, India</td></tr>
         <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
         <tr><th scope='row'>Relegion</th><td>Islam</td></tr>
