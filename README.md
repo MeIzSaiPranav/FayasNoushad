@@ -10,6 +10,7 @@
         <tr><th scope='row'>Living Place</th><td>N.K Nagar, Kallekkad, Palakkad, Kerala, India</td></tr>
         <tr><th scope='row'>Nationality</th><td>Indian</td></tr>
         <tr><th scope='row'>Relegion</th><td>Islam</td></tr>
+        <tr><th scope='row'>Skills</th><td>Python, HTML</td></tr>
         <tr><th scope='row'>Accounts</th><td><a href='https://twitter.com/FayasNoushad'>Twitter</a>, <a href='https://github.com/FayasNoushad'>GitHub</a>, <a href='https://telegram.me/FayasNoushad'>Telegram</a>, <a href='https://instagram.com/TheFayas'>Instagram</a></td></tr>
     </tbody>
 </table>
