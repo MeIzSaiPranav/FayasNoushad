@@ -21,5 +21,5 @@ My name is Fayas. I was born on 30th December 2005. I am a 15 years old boy. My 
 ---
 
 <p align="center">
-  <img alt="stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&hide=issues,prs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/><img alt="top-languages" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&theme=tokyonight"/>
+  <img alt="stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&hide=issues,prs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/><img alt="top-languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&theme=tokyonight"/>
 </p>
