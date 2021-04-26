@@ -1,5 +1,5 @@
-<p align="center">
-  <table>
+<table>
+  <p align="center">
     <tr> <th colspan="2"><strong>About Me</strong></th></tr>
       <tbody>
         <tr><th scope='row'>Name</th><td>Fayas</td></tr>
@@ -14,8 +14,8 @@
         <tr><th scope='row'>Skills</th><td>Python, HTML</td></tr>
         <tr><th scope='row'>Accounts</th><td><a href='https://twitter.com/FayasNoushad'>Twitter</a>, <a href='https://github.com/FayasNoushad'>GitHub</a>, <a href='https://telegram.me/FayasNoushad'>Telegram</a>, <a href='https://instagram.com/TheFayas'>Instagram</a></td></tr>
       </tbody>
-  </table>
-</p>
+  </p>
+</table>
 
 ---
 
