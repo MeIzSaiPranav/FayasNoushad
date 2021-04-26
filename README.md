@@ -14,3 +14,7 @@
         <tr><th scope='row'>Accounts</th><td><a href='https://twitter.com/FayasNoushad'>Twitter</a>, <a href='https://github.com/FayasNoushad'>GitHub</a>, <a href='https://telegram.me/FayasNoushad'>Telegram</a>, <a href='https://instagram.com/TheFayas'>Instagram</a></td></tr>
     </tbody>
 </table>
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&hide=issues,prs&show_icons=true&count_private=true&include_all_commits=true" width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact" width="50%">
