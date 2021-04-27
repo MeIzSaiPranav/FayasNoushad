@@ -1,4 +1,4 @@
-<p align="center"><h1>Fayas Noushad</h1></p>
+<h1><p align="center">Fayas Noushad</p></h1>
 
 ---
 
