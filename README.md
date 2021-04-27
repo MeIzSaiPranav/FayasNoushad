@@ -1,4 +1,4 @@
-# FayasNoushad
+<p align="center"><h1>Fayas Noushad</p></h1>
 
 ---
 
