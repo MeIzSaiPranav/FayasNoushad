@@ -2,8 +2,6 @@
 
 ---
 
-<h2><p align="center">About</p></h2>
-
 <p align="center">
   <b>
 My name is Fayas. I was born on 30th December 2005. I am a 15 years old boy. My father name is Noushad. I am studying in 10th standard in Puliyaparamba Higher Secondary School. I am living in Palakkad, Kerala, India. I know Python and HTML base only.
