@@ -12,8 +12,6 @@ My name is Fayas. I was born on 30th December 2005. I am a 15 years old boy. My 
 
 ---
 
-<h2><p align="center">Accounts</p></h2>
-
 <p align="center">
   <a href="https://twitter.com/FayasNoushad"><img src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://instagram.com/TheFayas"><img src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram" alt="Instagram"></a>
@@ -25,15 +23,4 @@ My name is Fayas. I was born on 30th December 2005. I am a 15 years old boy. My 
 
 ---
 
-<h2><p align="center">GitHub Stats</p></h2>
-
 <p align="center"><img alt="stats" width="52%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&hide=issues,prs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight"/><img alt="top-languages" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&theme=tokyonight"/></p>
-
----
-
-<h2><p align="center">Tools and Languages</p></h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-white?&style=for-the-badge&logo=python" alt="Python"></a>
-  <img src="https://img.shields.io/badge/HTML-white?&style=for-the-badge&logo=html5" alt="Html"></a>
-</p>
