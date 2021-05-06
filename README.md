@@ -19,9 +19,3 @@ My name is Fayas. I was born on 30th December 2005. I am a 15 years old boy. My 
 
 <p align="center"><img alt="stats" width="61%" src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&hide=issues,prs&count_private=true&include_all_commits=true&disable_animations=false&custom_title=Stats&theme=tokyonight"/><img alt="top-languages" width="39%" src="https://github-stats.fayas.cf/api/top-langs/?username=FayasNoushad&layout=compact&disable_animations=false&custom_title=Languages&theme=tokyonight"/></p>
 
----
-
-<p align="center">
-  <a href="https://github.com/FayasNoushad/Country-Info-Bot"><img width="50%" src="https://github-stats.fayas.cf/api/pin/?username=FayasNoushad&repo=Country-Info-Bot&theme=tokyonight" alt="Country Info Bot"></a><a href="https://github.com/FayasNoushad/Attach Bot"><img width="50%" src="https://github-stats.fayas.cf/api/pin/?username=FayasNoushad&repo=Attach-Bot&theme=tokyonight" alt="Attach Bot"></a>
-  <a href="https://github.com/FayasNoushad/Telegraph-Uploader-Bot"><img width="50%" src="https://github-stats.fayas.cf/api/pin/?username=FayasNoushad&repo=Telegraph-Uploader-Bot&theme=tokyonight" alt="Telegraph Uploader"></a><a href="https://github.com/FayasNoushad/YouTube-Downloader"><img width="50%" src="https://github-stats.fayas.cf/api/pin/?username=FayasNoushad&repo=YouTube-Downloader&theme=tokyonight" alt="YouTube Downloader"></a>
-  <a href="https://github.com/FayasNoushad/Rename-Bot"><img width="50%" src="https://github-stats.fayas.cf/api/pin/?username=FayasNoushad&repo=Rename-Bot&theme=tokyonight" alt="Rename Bot"></a></p>
