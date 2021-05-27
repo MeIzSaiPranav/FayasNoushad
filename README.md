@@ -13,6 +13,7 @@ My name is Fayas. I am a noob ( newcomer ) developer. I was born on 30th Decembe
   <a href="https://github.com/FayasNoushad"><img src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
   <a href="https://telegram.me/FayasNoushad"><img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram"></a>
   <a href="https://paypal.me/FayasNoushad"><img src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal" alt="PayPal"></a>
+  <a href="https://www.quora.com/profile/Fayas-Noushad-1"><img src="https://img.shields.io/badge/Quara-white?&style=for-the-badge&logo=quora&logoColor=red" alt="Quora"></a>
 </p>
 
 ---
