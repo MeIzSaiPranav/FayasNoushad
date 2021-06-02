@@ -1,16 +1,9 @@
-<p align="center">
-  <b>
-I am Fayas. I am a noob ( newcomer ) developer. I was born on 30th December 2005. I am a 15 years old boy. My father name is Noushad. I am studying in 10th standard in Puliyaparamb Higher Secondary School. I am living in Palakkad, Kerala, India. Currently learning Python.
-  </b>
-</p>
-
----
-
 ```python
 name = "Fayas"
 who_i_am = ["Student", "Noobie Programmer", "Tech Enthusiast", "YouTube Vlogger"]
 age = 15
 born_on = "30th December 2005"
+studying_on = "Puliyaparamb Higher Secondary School"
 education = "10th Standard"
 living_in = "Palakkad, Kerala"
 country = "India 🇮🇳"
