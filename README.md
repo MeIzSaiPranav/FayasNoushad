@@ -18,9 +18,8 @@ I am Fayas. I am a noob ( newcomer ) developer. I was born on 30th December 2005
 
 ---
 
-<p align="center"><img alt="stats" width="50%" src="https://github.com/FNPROJECTS/github-stats-transparent/blob/output/generated/overview.svg"/><img alt="top-languages" width="50%" src="https://github.com/FNPROJECTS/github-stats-transparent/blob/output/generated/languages.svg"/></p>
-
----
-
 <p align="center"><img alt="streak-stats" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/><img alt="github-stats" width="50%" src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&theme=tokyonight"/></p>
   
+---
+
+<p align="center"><img alt="stats" width="50%" src="https://github.com/FNPROJECTS/github-stats-transparent/blob/output/generated/overview.svg"/><img alt="top-languages" width="50%" src="https://github.com/FNPROJECTS/github-stats-transparent/blob/output/generated/languages.svg"/></p>
