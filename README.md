@@ -11,6 +11,7 @@ name = "Fayas"
 who_i_am = ["Student", "Noobie Programmer", "Tech Enthusiast", "YouTube Vlogger"]
 age = 15
 born_on = "30th December 2005"
+education = "10th Standard"
 living_in = "Palakkad, Kerala"
 country = "India 🇮🇳"
 speaking_languages_i_know = ["Malayalam", "English"]
