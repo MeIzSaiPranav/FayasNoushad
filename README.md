@@ -6,6 +6,17 @@ I am Fayas. I am a noob ( newcomer ) developer. I was born on 30th December 2005
 
 ---
 
+```python
+name = "Fayas"
+who_i_am = ["Student", "Noobie Programmer", "Tech Enthusiast", "YouTube Vlogger"]
+age = 15
+living_in = "Palakkad, Kerala"
+country = "India 🇮🇳"
+speaking_languages = ["Malayalam", "English"]
+religion = "Islam"
+```
+---
+
 <p align="center">
   <a href="https://twitter.com/FayasNoushad"><img src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://instagram.com/TheFayas"><img src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram" alt="Instagram"></a>
