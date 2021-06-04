@@ -7,7 +7,7 @@ studying_on = "Puliyaparamb Higher Secondary School"
 education = "10th Standard"
 living_in = "Palakkad, Kerala"
 country = "India 🇮🇳"
-speaking_languages_i_know = ["Malayalam", "English"]
+speaking_languages_i_know = ["Malayalam", "Tamil", "English"]
 programming_languages_i_learning = "python"
 religion = "Islam"
 ```
