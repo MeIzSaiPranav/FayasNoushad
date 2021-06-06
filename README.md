@@ -9,6 +9,7 @@ living_in = "Palakkad, Kerala"
 country = "India 🇮🇳"
 speaking_languages_i_know = ["Malayalam", "Tamil", "English"]
 programming_languages_i_learning = "python"
+team_for_programming = "Single Person 😉"
 religion = "Islam"
 ```
 ---
