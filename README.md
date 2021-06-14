@@ -1,3 +1,5 @@
+### 🧐 More About Me:
+
 - 🏷️ My name is Fayas 😎
 - 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Learning Python, HTML etc
@@ -5,6 +7,7 @@
 - 🗣️ I know Malayalam, Tamil and English
 - 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
+### ❤️ My accounts:
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
