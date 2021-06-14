@@ -5,13 +5,13 @@ I am Fayas. I am a noob ( newcomer ) developer.
 <br/>
 
 ### 🧐 More About Me:
-- 🏷️ &nbsp; My name is Fayas 😎
-- 🎓 &nbsp; 10th Standard Student of Puliyaparamb Higher Secondary School
-- 🖥️ &nbsp; Learning Python, HTML etc
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
-- 🌐 &nbsp; An Indian 🇮🇳
-- 🗣️ &nbsp; I know Malayalam, Tamil and English
-- 🎂 &nbsp; I am born on 30th December in 2005 and I am a 15 years old boy
+- 🏷️ My name is Fayas 😎
+- 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
+- 🖥️ Learning Python, HTML etc
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
+- 🌐 An Indian 🇮🇳
+- 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English)
+- 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
 <br/>
 
