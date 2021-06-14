@@ -24,7 +24,6 @@
 
 
 ### 📊 Github Stats
-
 <p align="left">
     <img alt="github-stats"
         src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"
