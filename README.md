@@ -14,12 +14,12 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Python-blue?&style=for-the-badge&logo=python&logoColor=white"
+            src="https://img.shields.io/badge/Python-white?&style=for-the-badge&logo=python"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/HTML-red?&style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML-white?&style=for-the-badge&logo=html5"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
@@ -29,12 +29,12 @@
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=brightgreen"
+            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb"
         />
     </a>
     <a href="" target="_blank">
         <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown&logoColor=white"
+            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logo=markdown&logoColor=black"
         />
     </a>
 </p>
@@ -43,7 +43,7 @@
 <p align="left">
     <a href="https://heroku.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Heroku-blueviolet?&style=for-the-badge&logo=heroku&logoColor=white"
+            src="https://img.shields.io/badge/Heroku-white?&style=for-the-badge&logo=heroku&logoColor=blueviolet"
         />
     </a>
 </p>
@@ -88,7 +88,7 @@
     </a>
     <a href="https://gitlab.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitLab-white?&style=for-the-badge&logo=gitlab&logoColor=red"
+            src="https://img.shields.io/badge/GitLab-white?&style=for-the-badge&logo=gitlab&logoColor=white"
             alt="GitLab"
         >
     </a>
