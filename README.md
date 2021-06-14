@@ -8,7 +8,7 @@
 - 👨🏻‍💻 **Projects**: Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
 - 🌐 **Nationality:** Indian 🇮🇳
 - 🗣️ **Speaking Languages:** [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English)
-- 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
+- 🎂 **Birth Day and Age**: I am born on 30th December in 2005 and I am a 15 years old boy
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
