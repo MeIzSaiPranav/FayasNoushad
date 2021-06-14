@@ -3,6 +3,7 @@
 <br/>
 
 <h3>🧐 More About Me:</h3>
+
 - 🏷️ My name is Fayas 😎
 - 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Learning Python, HTML etc
