@@ -11,10 +11,40 @@
 - 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
 <h3 align="left">🔨 Languages and Tools</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"/> </a> </p>
-<p align="left"> <a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/html/html.svg"/> </a> </p>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a> </p>
-<p align="left"> <a href="https://mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height ="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> </a> </p>
+<p align="left">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            align="left"
+            alt="Python"
+            height ="45px"
+            src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            align="left"
+            alt="HTML"
+            height ="45px"
+            src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/html/html.svg"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            align="left"
+            alt="Git"
+            height ="45px"
+            src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            align="left"
+            alt="MongoDB"
+            height ="45px"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        />
+    </a>
+</p>
 
 <br/>
 
