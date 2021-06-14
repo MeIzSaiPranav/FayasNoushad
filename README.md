@@ -10,44 +10,35 @@
 - 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English)
 - 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
-<h3 align="left">🔨 Languages and Tools</h3>
+<h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img
-            align="left"
-            alt="Python"
-            height ="45px"
-            src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"
+            src="https://img.shields.io/badge/Python-blue?&style=for-the-badge&logo=python&logoColor=white"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            align="left"
-            alt="HTML"
-            height ="45px"
-            src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/html/html.svg"
+            src="https://img.shields.io/badge/HTML-red?&style=for-the-badge&logo=html5&logoColor=white"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
-            align="left"
-            alt="Git"
-            height ="45px"
-            src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
+            src="https://img.shields.io/badge/Git-white?&style=for-the-badge&logo=git&logoColor=red"
         />
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            align="left"
-            alt="MongoDB"
-            height ="45px"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            src="https://img.shields.io/badge/MongoDB-green?&style=for-the-badge&logo=mongodb&logoColor=white"
+        />
+    </a>
+    <a href="" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown&logoColor=white"
         />
     </a>
 </p>
 
-<br/>
-<br/>
 <h3 align="left">📊 Github Stats</h3>
 <p align="left">
     <img
