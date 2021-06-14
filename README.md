@@ -1,22 +1,32 @@
 # FayasNoushad
-### 🧐 More About Me:
+<br/>
+<br/>
+<br/>
 
-- 🏷️ My name is Fayas 😎
-- 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
-- 🖥️ Learning Python, HTML etc
-- 🌐 An Indian 🇮🇳
-- 🗣️ I know Malayalam, Tamil and English
-- 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
+### 🧐 More About Me:
+- 🏷️ &nbsp; My name is Fayas 😎
+- 🎓 &nbsp; 10th Standard Student of Puliyaparamb Higher Secondary School
+- 🖥️ &nbsp; Learning Python, HTML etc
+- 🌐 &nbsp; An Indian 🇮🇳
+- 🗣️ &nbsp; I know Malayalam, Tamil and English
+- 🎂 &nbsp; I am born on 30th December in 2005 and I am a 15 years old boy
+
+<br>
 
 ### 🔨 Languages and Tools:
+<a href="https://python.org/" target="_blank">
+    <img
+        align="left"
+        src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"
+        alt="python"
+        height="42px"
+    />
+</a> 
 
-<a href="https://python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> 
-<br/>
 <br>
 
 
 ### 📊 Github Stats:
-
 <p align="left">
     <img alt="github-stats"
         src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"
