@@ -1,5 +1,3 @@
-## About Me
-
 - 🏷️ My name is Fayas 😎
 - 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Learning Python, HTML etc
