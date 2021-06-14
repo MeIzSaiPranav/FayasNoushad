@@ -27,6 +27,11 @@
             src="https://img.shields.io/badge/Git-white?&style=for-the-badge&logo=git&logoColor=red"
         />
     </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black"
+        />
+    </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
             src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb"
@@ -39,7 +44,7 @@
     </a>
 </p>
 
-<h3 align="left">⚙️ My Virtual Hosters</h3>
+<h3 align="left">⚙️ My Virtual Hosters:</h3>
 <p align="left">
     <a href="https://heroku.com" target="_blank">
         <img
@@ -48,7 +53,7 @@
     </a>
 </p>
 
-<h3 align="left">📊 Github Stats</h3>
+<h3 align="left">📊 Github Stats:</h3>
 <p align="left">
     <img
         src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"
@@ -60,7 +65,7 @@
     />
 </p>
 
-<h3 align="left">❤️ My accounts</h3>
+<h3 align="left">❤️ My accounts:</h3>
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
         <img
@@ -98,16 +103,19 @@
             alt="Telegram"
         >
     </a>
-    <a href="https://paypal.me/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
-            alt="PayPal"
-        >
-    </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
             src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logo=quora&logoColor=red"
             alt="Quora"
+        >
+    </a>
+</p>
+
+<h3 align="left">💲 Please Donate:</h3>
+    <a href="https://paypal.me/FayasNoushad">
+        <img
+            src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
+            alt="PayPal"
         >
     </a>
 </p>
