@@ -18,7 +18,7 @@
 
 <br/>
 
-<h3 align="left">📊 Github Stats</h3>
+<h2 align="left">📊 Github Stats</h2>
 <p align="left"> <img src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/> </p>
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"/> </p>
 
