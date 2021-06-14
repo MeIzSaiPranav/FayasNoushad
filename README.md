@@ -14,7 +14,6 @@ I am Fayas. I am a noob ( newcomer ) developer.
 
 <br>
 
-
 ### 🔨 Languages and Tools
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"/> </a>
 <a href="https://html.spec.whatwg.org/" target="_blank"> <img align="left" alt="HTML" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/html/html.svg"/> </a>
@@ -23,13 +22,11 @@ I am Fayas. I am a noob ( newcomer ) developer.
 
 <br>
 
-
 ### 📊 Github Stats
 ![Stats](https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad)
 
 <br>
-
 
 ### ❤️ My accounts
 <p align="left">
