@@ -13,7 +13,6 @@
 
 <br>
 
----
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"/></a>
@@ -23,8 +22,6 @@
 
 <br>
 
-
----
 
 ### 📊 Github Stats
 
@@ -39,7 +36,6 @@
 
 <br>
 
----
 
 ### ❤️ My accounts
 <p align="left">
