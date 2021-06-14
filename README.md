@@ -1,3 +1,7 @@
+# FayasNoushad
+<br/>
+<br/>
+
 ### 🧐 More About Me:
 
 - 🏷️ My name is Fayas 😎
@@ -12,6 +16,11 @@
 
 <br>
 
+### 📊 Github Stats:
+
+<p align="center"><img alt="github-stats" width="50%" src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&theme=tokyonight"/><img alt="github-streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/></p>
+
+<br>
 
 ### ❤️ My accounts:
 <p align="left">
@@ -57,6 +66,3 @@
     </a>
 </p>
 
-### 📊 Github Stats:
-
-<p align="center"><img alt="github-stats" width="50%" src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats&theme=tokyonight"/><img alt="github-streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/></p>
