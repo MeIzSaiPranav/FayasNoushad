@@ -4,6 +4,7 @@
 <br/>
 
 ### 🧐 More About Me:
+
 - 🏷️ &nbsp; My name is Fayas 😎
 - 🎓 &nbsp; 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ &nbsp; Learning Python, HTML etc
@@ -26,7 +27,8 @@
 <br>
 
 
-### 📊 Github Stats:
+### 📊 Github Stats
+
 <p align="left">
     <img alt="github-stats"
         src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"
@@ -38,7 +40,8 @@
 
 <br>
 
-### ❤️ My accounts:
+
+### ❤️ My accounts
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
         <img src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
