@@ -3,7 +3,6 @@
 <br/>
 
 <h3 align="left">🧐 More About Me:</h3>
-
 - 🏷️ My name is Fayas 😎
 - 🎓 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Learning Python, HTML etc
@@ -23,7 +22,6 @@
 <br/>
 
 <h3 align="left">📊 Github Stats</h3>
-
 <img src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"/>
 
