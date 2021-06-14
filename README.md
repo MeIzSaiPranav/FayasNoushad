@@ -14,7 +14,7 @@
 
 
 ### ❤️ My accounts:
-<p align="center">
+<p align="left">
     <a href="https://twitter.com/FayasNoushad">
         <img src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
              alt="Twitter"
