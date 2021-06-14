@@ -2,7 +2,7 @@
 
 I am Fayas. I am a noob ( newcomer ) developer.
 
-<br>
+<br/>
 
 ### 🧐 More About Me:
 - 🏷️ &nbsp; My name is Fayas 😎
@@ -13,7 +13,7 @@ I am Fayas. I am a noob ( newcomer ) developer.
 - 🗣️ &nbsp; I know Malayalam, Tamil and English
 - 🎂 &nbsp; I am born on 30th December in 2005 and I am a 15 years old boy
 
-<br>
+<br/>
 
 ### 🔨 Languages and Tools
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/python/python.svg"/> </a>
@@ -21,7 +21,7 @@ I am Fayas. I am a noob ( newcomer ) developer.
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height ="45px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"/> </a>
 <a href="https://mongodb.com/" target="_blank"> <img align="left" alt="MongoDB" height ="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/> </a>
 
-<br>
+<br/>
 
 
 ### 📊 Github Stats 
@@ -32,7 +32,7 @@ I am Fayas. I am a noob ( newcomer ) developer.
 
 </a>
 
-<br>
+<br/>
 
 ### ❤️ My accounts
 <p align="left">
