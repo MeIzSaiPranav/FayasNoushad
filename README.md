@@ -29,7 +29,7 @@
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/MongoDB-green?&style=for-the-badge&logo=mongodb&logoColor=white"
+            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb&logoColor=brightgreen"
         />
     </a>
     <a href="" target="_blank">
