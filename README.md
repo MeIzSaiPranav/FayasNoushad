@@ -11,6 +11,8 @@
 - 🗣️ I know Malayalam, Tamil and English
 - 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
+<br>
+
 ### 🔨 Languages and Tools:
 <a href="https://python.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg" alt="python" height="42px"/> </a> 
 
