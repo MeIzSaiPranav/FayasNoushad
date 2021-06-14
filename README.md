@@ -24,8 +24,8 @@
 
 <h3>📊 Github Stats</h3>
 
-![Stats](https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad)
+<img src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"/>
 
 <br/>
 
