@@ -26,14 +26,9 @@ I am Fayas. I am a noob ( newcomer ) developer.
 
 
 ### 📊 Github Stats
-<p align="left">
-    <img alt="github-stats"
-        src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats"
-    />
-    <img alt="github-streak"
-        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"
-    />
-</p>
+
+![Stats](https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad)
 
 <br>
 
