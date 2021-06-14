@@ -1,4 +1,6 @@
 # FayasNoushad
+<br/>
+<br/>
 
 ### 🧐 More About Me:
 
@@ -8,6 +10,8 @@
 - 🌐 &nbsp; An Indian 🇮🇳
 - 🗣️ &nbsp; I know Malayalam, Tamil and English
 - 🎂 &nbsp; I am born on 30th December in 2005 and I am a 15 years old boy
+
+<br>
 
 ---
 
@@ -32,6 +36,8 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"
     />
 </p>
+
+<br>
 
 ---
 
