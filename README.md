@@ -2,13 +2,14 @@
 
 <h3 align="left">🧐 More About Me:</h3>
 
-- 🏷️ **Name:** Fayas 😎
-- 🎓 **Education:** 10th Standard Student of Puliyaparamb Higher Secondary School
-- 🖥️ **Programming Languages**: Learning Python, HTML etc
-- 👨🏻‍💻 **Projects**: Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
-- 🌐 **Nationality:** Indian 🇮🇳
-- 🗣️ **Speaking Languages:** [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English)
-- 🎂 **Birth Day and Age**: I am born on 30th December in 2005 and I am a 15 years old boy
+- 🏷️ My name is Fayas 😎
+- 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
+- 🖥️ Currently Learning Python, HTML etc
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
+- 🔭 I'm collaborating in more repositories and organizations
+- 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
+- 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
+- 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
