@@ -14,32 +14,32 @@
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Python-white?&style=for-the-badge&logo=python"
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/HTML-white?&style=for-the-badge&logo=html5"
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Git-white?&style=for-the-badge&logo=git&logoColor=red"
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
         />
     </a>
     <a href="https://github.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black"
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
         />
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb"
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
         />
     </a>
     <a href="https://daringfireball.net/projects/markdown/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logo=markdown&logoColor=black"
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
         />
     </a>
 </p>
@@ -48,7 +48,7 @@
 <p align="left">
     <a href="https://heroku.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Heroku-white?&style=for-the-badge&logo=heroku&logoColor=blueviolet"
+            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=heroku"
         />
     </a>
 </p>
@@ -76,43 +76,43 @@
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
+            src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter"
             alt="Twitter"
         >
     </a>
     <a href="https://instagram.com/TheFayas">
         <img
-            src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram"
+            src="https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=instagram"
             alt="Instagram"
         >
     </a>
     <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
         <img
-            src="https://img.shields.io/badge/YouTube-white?&style=for-the-badge&logo=youtube&logoColor=red"
+            src="https://img.shields.io/badge/YouTube-black?&style=for-the-badge&logo=youtube"
             alt="YouTube"
         >
     </a>
     <a href="https://github.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logo=github&logoColor=black"
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
             alt="GitHub"
         >
     </a>
     <a href="https://gitlab.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitLab-white?&style=for-the-badge&logo=gitlab&logoColor=white"
+            src="https://img.shields.io/badge/GitLab-black?&style=for-the-badge&logo=gitlab"
             alt="GitLab"
         >
     </a>
     <a href="https://telegram.me/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram"
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         >
     </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
-            src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logo=quora&logoColor=red"
+            src="https://img.shields.io/badge/Quora-black?&style=for-the-badge&logo=quora"
             alt="Quora"
         >
     </a>
@@ -121,7 +121,7 @@
 <h3 align="left">💲 Please Donate:</h3>
     <a href="https://paypal.me/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
+            src="https://img.shields.io/badge/PayPal-black?&style=for-the-badge&logo=paypal"
             alt="PayPal"
         >
     </a>
