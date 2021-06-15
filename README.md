@@ -65,6 +65,13 @@
     />
 </p>
 
+<h3 align="left">🔝 Top Languages:</h3>
+<p align="left">
+    <img
+        src="https://github-stats.fayas.cf/api/top-langs/?username=FayasNoushad"
+    />
+</p>
+
 <h3 align="left">❤️ My accounts:</h3>
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
