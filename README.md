@@ -9,7 +9,7 @@
 - 🔭 I'm collaborating in more repositories and organizations
 - 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
-- 🎂 I am born on 30th December in 2005 and I am a 15 years old boy
+- 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
