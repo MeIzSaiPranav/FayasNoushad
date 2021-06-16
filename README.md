@@ -6,7 +6,7 @@
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Currently Learning Python, HTML etc
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
-- 🔭 I'm collaborating in more repositories and organizations
+- 🔭 I'm collaborating in more private or public repositories and organizations
 - 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
