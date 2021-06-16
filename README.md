@@ -1,6 +1,6 @@
 ## FayasNoushad
 
-<h3 align="left">🧐 More About Me:</h3>
+<h3 align="left">😌 More About Me:</h3>
 
 - 🏷️ My name is Fayas 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
