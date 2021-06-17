@@ -54,23 +54,6 @@
     </a>
 </p>
 
-<h3 align="left">📊 Github Stats:</h3>
-<p align="left">
-    <img
-        src="https://github-stats.fayas.cf/api?username=FayasNoushad&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=tokyonight"
-    />
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
-    />
-</p>
-
-<h3 align="left">🔝 Top Languages:</h3>
-<p align="left">
-    <img
-        src="https://github-stats.fayas.cf/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=tokyonight"
-    />
-</p>
-
 <h3 align="left">❤️ My accounts:</h3>
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
