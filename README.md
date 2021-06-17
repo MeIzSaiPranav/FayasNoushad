@@ -10,6 +10,7 @@
 - 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
+- 🗯️ My favourite quote is `Dont judge a book by its cover`
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
