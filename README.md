@@ -102,6 +102,7 @@
 </p>
 
 <h3 align="left">💲 Please Donate:</h3>
+<p align="left">
     <a href="https://paypal.me/FayasNoushad">
         <img
             src="https://img.shields.io/badge/PayPal-black?&style=for-the-badge&logo=paypal"
