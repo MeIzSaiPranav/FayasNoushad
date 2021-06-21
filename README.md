@@ -44,6 +44,11 @@
             src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
         />
     </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
 </p>
 
 <h3 align="left">⚙️ My Virtual Hosters:</h3>
