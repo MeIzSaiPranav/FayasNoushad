@@ -130,6 +130,8 @@ Don't Forget to Follow Me 😜
     />
 </p>
 
+</details>
+
 <h3 align="left">🔝 Top Languages:</h3>
 <p align="left">
     <img
