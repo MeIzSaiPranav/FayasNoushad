@@ -124,6 +124,15 @@ Don't Forget to Follow Me 😜
 <p align="left">
     <img
         src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight&hide_title=true"
-        alt="stats"
+    />
+    <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
+    />
+</p>
+
+<h3 align="left">🔝 Top Languages:</h3>
+<p align="left">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=tokyonight"
     />
 </p>
