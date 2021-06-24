@@ -121,10 +121,17 @@ Don't Forget to Follow Me 😜
 </p>
 
 <h3 align="left">📊 Github Stats:</h3>
+<details><summary><b>GitHub Stats</b></summary>
+<br/>
 <p align="left">
     <img
         src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight&hide_title=true"
     />
+</p>
+</details>
+<details><summary><b>Streak Stats</b></summary>
+<br/>
+<p align="left">
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
     />
@@ -132,9 +139,11 @@ Don't Forget to Follow Me 😜
 
 </details>
 
-<h3 align="left">🔝 Top Languages:</h3>
+<details><summary><b>Top Languages</b></summary>
+<br/>
 <p align="left">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=tokyonight"
     />
 </p>
+</details>
