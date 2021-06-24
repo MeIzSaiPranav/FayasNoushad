@@ -119,4 +119,11 @@ Don't Forget to Follow Me 😜
         >
     </a>
 </p>
-  
+
+<h3 align="left">📊 Github Stats:</h3>
+<p align="left">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight"
+        alt="stats"
+    />
+</p>
