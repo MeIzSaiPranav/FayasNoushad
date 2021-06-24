@@ -123,7 +123,7 @@ Don't Forget to Follow Me 😜
 <h3 align="left">📊 Github Stats:</h3>
 <p align="left">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight&hide_title=true"
         alt="stats"
     />
 </p>
