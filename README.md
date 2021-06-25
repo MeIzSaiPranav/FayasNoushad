@@ -6,7 +6,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">😌 More About Me:</h3>
+<h2 align="left">😌 More About Me:</h2>
 
 - 🏷️ My name is Fayas 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
@@ -20,7 +20,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">🔨 Languages and Tools:</h3>
+<h2 align="left">🔨 Languages and Tools:</h2>
 <p align="left">
     <a href="https://www.python.org" target="_blank">
         <img
@@ -61,7 +61,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">⚙️ My Virtual Hosters:</h3>
+<h2 align="left">⚙️ My Virtual Hosters:</h2>
 <p align="left">
     <a href="https://heroku.com" target="_blank">
         <img
@@ -72,7 +72,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">❤️ My accounts:</h3>
+<h2 align="left">❤️ My accounts:</h2>
 <p align="left">
     <a href="https://twitter.com/FayasNoushad">
         <img
@@ -120,7 +120,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">💲 Please Donate:</h3>
+<h2 align="left">💲 Please Donate:</h2>
 <p align="left">
     <a href="https://paypal.me/FayasNoushad">
         <img
@@ -132,7 +132,7 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h3 align="left">📊 Github Stats:</h3>
+<h2 align="left">📊 Github Stats:</h2>
 <details><summary><b>GitHub Stats</b></summary>
 <br/>
 <p align="left">
