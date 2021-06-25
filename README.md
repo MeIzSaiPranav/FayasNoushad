@@ -137,7 +137,7 @@ Don't Forget to Follow Me 😜
 <br/>
 <p align="left">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&theme=tokyonight&hide_title=true"
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&hide_title=true"
     />
 </p>
 </details>
@@ -145,7 +145,7 @@ Don't Forget to Follow Me 😜
 <br/>
 <p align="left">
     <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
+        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"
     />
 </p>
 </details>
@@ -161,7 +161,7 @@ Don't Forget to Follow Me 😜
 <br/>
 <p align="left">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true"
     />
 </p>
 </details>
