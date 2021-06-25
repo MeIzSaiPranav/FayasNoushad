@@ -4,6 +4,8 @@
 Don't Forget to Follow Me 😜
 ```
 
+---
+
 <h3 align="left">😌 More About Me:</h3>
 
 - 🏷️ My name is Fayas 😎
@@ -15,6 +17,8 @@ Don't Forget to Follow Me 😜
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
 - 🗯️ My favourite quote is `Dont judge a book by its cover`
+
+---
 
 <h3 align="left">🔨 Languages and Tools:</h3>
 <p align="left">
@@ -55,6 +59,8 @@ Don't Forget to Follow Me 😜
     </a>
 </p>
 
+---
+
 <h3 align="left">⚙️ My Virtual Hosters:</h3>
 <p align="left">
     <a href="https://heroku.com" target="_blank">
@@ -63,6 +69,8 @@ Don't Forget to Follow Me 😜
         />
     </a>
 </p>
+
+---
 
 <h3 align="left">❤️ My accounts:</h3>
 <p align="left">
@@ -110,6 +118,8 @@ Don't Forget to Follow Me 😜
     </a>
 </p>
 
+---
+
 <h3 align="left">💲 Please Donate:</h3>
 <p align="left">
     <a href="https://paypal.me/FayasNoushad">
@@ -119,6 +129,8 @@ Don't Forget to Follow Me 😜
         >
     </a>
 </p>
+
+---
 
 <h3 align="left">📊 Github Stats:</h3>
 <details><summary><b>GitHub Stats</b></summary>
@@ -136,9 +148,7 @@ Don't Forget to Follow Me 😜
         src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
     />
 </p>
-
 </details>
-
 <details><summary><b>Top Languages</b></summary>
 <br/>
 <p align="left">
