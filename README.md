@@ -149,6 +149,13 @@ Don't Forget to Follow Me 😜
     />
 </p>
 </details>
+<details><summary><b>Profile Trophy</b></summary>
+<br/>
+<p align="left">
+    <img
+        src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
+    />
+</p>
 <details><summary><b>Top Languages</b></summary>
 <br/>
 <p align="left">
