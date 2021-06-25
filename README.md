@@ -156,6 +156,7 @@ Don't Forget to Follow Me 😜
         src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
     />
 </p>
+</details>
 <details><summary><b>Top Languages</b></summary>
 <br/>
 <p align="left">
