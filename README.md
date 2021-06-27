@@ -137,7 +137,7 @@ Don't Forget to Follow Me 😜
 <br/>
 <p align="left">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&hide_title=true"
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&hide_title=true&show_icons=true"
     />
 </p>
 </details>
