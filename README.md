@@ -1,9 +1,3 @@
-```
-Don't Forget to Follow Me 😜
-```
-
----
-
 - 🏷️ My name is Fayas 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Currently Learning Python, HTML etc
