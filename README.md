@@ -132,7 +132,12 @@ Don't Forget to Follow Me 😜
 
 ---
 
-<h2 align="left">📊 Github Stats:</h2>
+<p align="center">
+    <img
+        width="60%"
+        src="https://img.shields.io/badge/GitHub_Stats-black?&style=for-the-badge"
+    />
+</p>
 <p align="center">
     <img
         width="49%"
