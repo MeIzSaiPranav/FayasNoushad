@@ -19,24 +19,13 @@ Don't Forget to Follow Me 😜
 - 🗯️ My favourite quote is `Dont judge a book by its cover` and `Knowledge is power`
 - 💲 Please donate me via [PayPal](https://paypal.me/FayasNoushad)
 - 🔨 My Languages and Tools:
-    - [Python](https://www.python.org)
-    - [HTML](https://html.spec.whatwg.org/)
-    - [Git](https://git-scm.com/)
-    - [GitHub](https://github.com/)
-    - [MongoDB](https://mongodb.com/)
-    - [Markdown](https://daringfireball.net/projects/markdown/)
-    - [Json](https://json.org)
-
----
-
-<h2 align="left">⚙️ My Virtual Hosters:</h2>
-<p align="left">
-    <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=heroku"
-        />
-    </a>
-</p>
+[Python](https://www.python.org) |
+[HTML](https://html.spec.whatwg.org/) |
+[Git](https://git-scm.com/) [GitHub](https://github.com/) |
+[MongoDB](https://mongodb.com/) |
+[Markdown](https://daringfireball.net/projects/markdown/) |
+[Json](https://json.org)
+- ⚙️ My Virtual Hoster is [Heroku](https://heroku.com)
 
 ---
 
