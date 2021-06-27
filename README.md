@@ -18,47 +18,14 @@ Don't Forget to Follow Me 😜
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
 - 🗯️ My favourite quote is `Dont judge a book by its cover` and `Knowledge is power`
 - 💲 Please donate me via [PayPal](https://paypal.me/FayasNoushad)
-
----
-
-<h2 align="left">🔨 Languages and Tools:</h2>
-<p align="left">
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
-        />
-    </a>
-    <a href="https://html.spec.whatwg.org/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
-        />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
-        />
-    </a>
-    <a href="https://mongodb.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
-        />
-    </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
-        />
-    </a>
-    <a href="https://json.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
-        />
-    </a>
-</p>
+- 🔨 My Languages and Tools:
+    - [Python](https://www.python.org)
+    - [HTML](https://html.spec.whatwg.org/)
+    - [Git](https://git-scm.com/)
+    - [GitHub](https://github.com/)
+    - [MongoDB](https://mongodb.com/)
+    - [Markdown](https://daringfireball.net/projects/markdown/)
+    - [Json](https://json.org)
 
 ---
 
