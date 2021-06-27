@@ -1,12 +1,8 @@
-<h1>FayasNoushad</h1>
-
 ```
 Don't Forget to Follow Me 😜
 ```
 
 ---
-
-<h2 align="left">😌 More About Me:</h2>
 
 - 🏷️ My name is Fayas 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
