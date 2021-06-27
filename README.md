@@ -133,35 +133,13 @@ Don't Forget to Follow Me 😜
 ---
 
 <h2 align="left">📊 Github Stats:</h2>
-<details><summary><b>GitHub Stats</b></summary>
-<br/>
 <p align="left">
     <img
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&hide_title=true&show_icons=true&theme=graywhite"
+        width="48%"
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&theme=tokyonight"
     />
-</p>
-</details>
-<details><summary><b>Streak Stats</b></summary>
-<br/>
-<p align="left">
     <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad"
+        width="48%"
+        src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
     />
 </p>
-</details>
-<details><summary><b>Profile Trophy</b></summary>
-<br/>
-<p align="left">
-    <img
-        src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
-    />
-</p>
-</details>
-<details><summary><b>Top Languages</b></summary>
-<br/>
-<p align="left">
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayasNoushad&layout=compact&hide_title=true&theme=graywhite"
-    />
-</p>
-</details>
