@@ -133,7 +133,7 @@ Don't Forget to Follow Me 😜
 ---
 
 <h2 align="left">📊 Github Stats:</h2>
-<p align="left">
+<p align="center">
     <img
         width="50%"
         src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&show_icons=true&theme=tokyonight"
