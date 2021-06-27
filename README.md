@@ -17,6 +17,7 @@ Don't Forget to Follow Me 😜
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
 - 🗯️ My favourite quote is `Dont judge a book by its cover`
+- 💲 Please donate me via [PayPal](https://paypal.me/FayasNoushad)
 
 ---
 
@@ -114,18 +115,6 @@ Don't Forget to Follow Me 😜
         <img
             src="https://img.shields.io/badge/Quora-black?&style=for-the-badge&logo=quora"
             alt="Quora"
-        >
-    </a>
-</p>
-
----
-
-<h2 align="left">💲 Please Donate:</h2>
-<p align="left">
-    <a href="https://paypal.me/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/PayPal-black?&style=for-the-badge&logo=paypal"
-            alt="PayPal"
         >
     </a>
 </p>
