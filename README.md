@@ -1,6 +1,6 @@
 # FayasNoushad
 
-- 🏷️ My name is Fayas 😎
+- 🏷️ My name is <strong>Fayas</strong> 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Currently Learning Python, HTML etc
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/FayasNoushad?tab=repositories)
