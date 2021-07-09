@@ -36,14 +36,17 @@
 <br/>
 <p align="left">
     <img src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad"/>
-</details>
 </p>
+</details>
 
 
 <details><summary>Trophies</summary>
 <br/>
 <p align="left">
-    <img width=900 src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"/>
+    <img
+        width=900
+        src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
+    />
 </details>
 
 
