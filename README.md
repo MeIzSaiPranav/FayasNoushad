@@ -39,11 +39,11 @@
 
 <p align="center">
     <img
-        width="50%"
+        width="49%"
         src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
-        width="50%"
+        width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
     />
 </p>
