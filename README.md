@@ -1,4 +1,4 @@
-# FayasNoushad
+<h1><p align="center">FayasNoushad</p></h1>
 
 
 <ul align="center">
