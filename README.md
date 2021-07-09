@@ -1,6 +1,6 @@
 # FayasNoushad
 
-<p align="center">
+
 - 🏷️ My name is <strong>Fayas</strong> 😎
 - 🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School
 - 🖥️ Currently Learning Python, HTML etc
@@ -27,9 +27,10 @@
 [GitLab](https://gitlab.com/FayasNoushad) |
 [Telegram](https://telegram.me/FayasNoushad) |
 [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
-</p>
+
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <p align="center">
     <img
