@@ -23,17 +23,20 @@
 
 <details><summary>Contribution Graph</summary>
 <br/>
-<p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad"/>
+<p align="center">
+    <img
+        width="96%"
+        src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad"
+    />
 </p>
 </details>
 
 
 <details><summary>Trophies</summary>
 <br/>
-<p align="left">
+<p align="center">
     <img
-        width=900
+        width="96%"
         src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
     />
 </details>
