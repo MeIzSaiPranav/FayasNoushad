@@ -26,7 +26,7 @@
 <p align="center">
     <img
         width="96%"
-        src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&theme=xcode"
+        src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad&custom_title=Contribution+Graph&theme=xcode"
     />
 </p>
 </details>
