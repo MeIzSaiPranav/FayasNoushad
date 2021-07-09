@@ -36,6 +36,14 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad"/>
 </details>
 
+
+<details><summary>Trophies</summary>
+<br/>
+<p align="left">
+    <img width=900 src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"/>
+</details>
+
+
 <p align="center">
     <img
         width="50%"
