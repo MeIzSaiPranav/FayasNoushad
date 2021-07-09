@@ -31,14 +31,19 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<details>
+    <summary>Contribution Graph</summary>
+<br/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=FayasNoushad"/>
+</details>
 
 <p align="center">
     <img
-        width="49%"
-        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight&custom_title=GitHub+Stats"
+        width="50%"
+        src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
     <img
-        width="49%"
+        width="50%"
         src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"
     />
 </p>
