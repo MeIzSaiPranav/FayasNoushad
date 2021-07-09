@@ -9,24 +9,11 @@
 - 🌐 I'm living in Palakkad, Kerala, India 🇮🇳
 - 🗣️ I'm know [Malayalam](https://google.com/search?q=Malayalam), [Tamil](https://google.com/search?q=Tamil) and [English](https://google.com/search?q=English) Languages
 - 🎂 I'm born on 30th December in 2005 and I am a 15 years old boy
-- 🗯️ My favourite quote is `Dont judge a book by its cover` and `Knowledge is power`
+- 🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code>
 - 💲 Please donate me via [PayPal](https://paypal.me/FayasNoushad)
-- 🔨 My Languages and Tools:
-[Python](https://www.python.org) |
-[HTML](https://html.spec.whatwg.org/) |
-[Git](https://git-scm.com/) [GitHub](https://github.com/) |
-[MongoDB](https://mongodb.com/) |
-[Markdown](https://daringfireball.net/projects/markdown/) |
-[Json](https://json.org)
-- ⚙️ My Virtual Hoster is [Heroku](https://heroku.com)
-- ❤️ My accounts:
-[Twitter](https://twitter.com/FayasNoushad) |
-[Instagram](https://instagram.com/TheFayas) |
-[YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA) |
-[GitHub](https://github.com/FayasNoushad) |
-[GitLab](https://gitlab.com/FayasNoushad) |
-[Telegram](https://telegram.me/FayasNoushad) |
-[Quora](https://www.quora.com/profile/Fayas-Noushad-1)
+- 🔨 My Languages and Tools:<a href="https://www.python.org">Python</a> | <a href="https://html.spec.whatwg.org/">HTML</a> | <a href="https://git-scm.com/">Git</a> <a href="https://github.com/">GitHub</a> | <a href="https://mongodb.com/">MongoDB</a> | <a href="https://daringfireball.net/projects/markdown/">Markdown</a> | <a href="https://json.org">Json</a>
+- ⚙️ My Virtual Hoster is <a href="https://heroku.com">Heroku</a>
+- ❤️ My accounts: <a href="https://twitter.com/FayasNoushad">Twitter</a> | <a href="https://instagram.com/TheFayas">Instagram</a> | <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">YouTube</a> | <a href="https://github.com/FayasNoushad">GitHub</a> | <a href="https://gitlab.com/FayasNoushad">GitLab</a> | <a href="https://telegram.me/FayasNoushad">Telegram</a> | <a href="https://www.quora.com/profile/Fayas-Noushad-1">Quora</a>
 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
