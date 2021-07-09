@@ -37,7 +37,7 @@
 <p align="center">
     <img
         width="96%"
-        src="https://github-profile-trophy.vercel.app/?username=FayasNoushad"
+        src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&theme=darkhub"
     />
 </details>
 
