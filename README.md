@@ -3,7 +3,7 @@
 
 <ul align="center">
 <samp>
-<li>🏷️ My name is <strong>Fayas</strong> 😎</li>
+<li>🏷️ My name is <b>Fayas</b> 😎</li>
 <li>🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School</li>
 <li>🖥️ Currently Learning Python, HTML etc</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">Github</a></li>
