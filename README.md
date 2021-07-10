@@ -61,6 +61,12 @@
             alt="Quora"
         />
     </a>
+    <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
+        <img
+            src="https://img.shields.io/badge/Stack_Overflow-black?&style=for-the-badge&logo=stackoverflow"
+            alt="Stack Overflow"
+        />
+    </a>
 </p>
 
 
