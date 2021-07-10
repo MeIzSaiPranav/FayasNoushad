@@ -13,9 +13,57 @@
 <li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
 <li>💲 Please donate me via <a href="https://paypal.me/FayasNoushad">PayPal</a></li>
 <li>⚙️ My Virtual Hosters: <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, and <a href="https://netlify.com">Netlify</a></li>
-<li>❤️ My accounts: <a href="https://twitter.com/FayasNoushad">Twitter</a> | <a href="https://instagram.com/TheFayas">Instagram</a> | <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">YouTube</a> | <a href="https://github.com/FayasNoushad">GitHub</a> | <a href="https://gitlab.com/FayasNoushad">GitLab</a> | <a href="https://telegram.me/FayasNoushad">Telegram</a> | <a href="https://www.quora.com/profile/Fayas-Noushad-1">Quora</a></li>
 </ul>
 
+
+---
+
+
+<h2 align="center">❤️ My accounts:</h2>
+<p align="center">
+    <a href="https://twitter.com/FayasNoushad">
+        <img
+            src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter"
+            alt="Twitter"
+        />
+    </a>
+    <a href="https://instagram.com/TheFayas">
+        <img
+            src="https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=instagram"
+            alt="Instagram"
+        />
+    </a>
+    <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
+        <img
+            src="https://img.shields.io/badge/YouTube-black?&style=for-the-badge&logo=youtube"
+            alt="YouTube"
+        />
+    </a>
+    <a href="https://github.com/FayasNoushad">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+            alt="GitHub"
+        />
+    </a>
+    <a href="https://gitlab.com/FayasNoushad">
+        <img
+            src="https://img.shields.io/badge/GitLab-black?&style=for-the-badge&logo=gitlab"
+            alt="GitLab"
+        />
+    </a>
+    <a href="https://telegram.me/FayasNoushad">
+        <img
+            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            alt="Telegram"
+        />
+    </a>
+    <a href="https://www.quora.com/profile/Fayas-Noushad-1">
+        <img
+            src="https://img.shields.io/badge/Quora-black?&style=for-the-badge&logo=quora"
+            alt="Quora"
+        />
+    </a>
+</p>
 
 ---
 
