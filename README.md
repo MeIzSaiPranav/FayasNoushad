@@ -17,7 +17,8 @@
 </ul>
 
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
+
 
 <h2 align="center">🔨 Languages and Tools:</h2>
 <p align="center">
@@ -58,7 +59,8 @@
     </a>
 </p>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+---
 
 
 <details><summary>Contribution Graph</summary>
