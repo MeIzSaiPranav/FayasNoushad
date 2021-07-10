@@ -1,4 +1,4 @@
-<h1><p align="center">FayasNoushad</p></h1>
+<h1><p align="center">Fayas Noushad</p></h1>
 
 
 <ul align="center">
@@ -17,7 +17,7 @@
 ---
 
 
-<h2 align="center">❤️ My accounts:</h2>
+<h2 align="center">❤️ My accounts</h2>
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img
@@ -73,7 +73,7 @@
 ---
 
 
-<h2 align="center">💲 Please Donate:</h2>
+<h2 align="center">💲 Please Donate</h2>
 <p align="center">
     <a href="https://paypal.me/FayasNoushad">
         <img
@@ -87,7 +87,7 @@
 ---
 
 
-<h2 align="center">🔨 Languages and Tools:</h2>
+<h2 align="center">🔨 Languages and Tools</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank">
         <img
@@ -130,7 +130,7 @@
 ---
 
 
-<h2 align="center">⚙️ My Virtual Hosters:</h2>
+<h2 align="center">⚙️ My Virtual Hosters</h2>
 <p align="center">
     <a href="https://heroku.com" target="_blank">
         <img
@@ -172,6 +172,7 @@
         src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&theme=darkhub"
     />
 </details>
+
 
 #
 
