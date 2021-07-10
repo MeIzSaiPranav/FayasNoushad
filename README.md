@@ -20,6 +20,47 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h2 align="center">🔨 Languages and Tools:</h2>
+<p align="center">
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+        />
+    </a>
+    <a href="https://html.spec.whatwg.org/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+        />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+        />
+    </a>
+    <a href="https://github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+        />
+    </a>
+    <a href="https://mongodb.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+        />
+    </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+        />
+    </a>
+    <a href="https://json.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <details><summary>Contribution Graph</summary>
 <br/>
