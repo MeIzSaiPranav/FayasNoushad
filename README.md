@@ -11,7 +11,6 @@
 <li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a> and <a href="https://google.com/search?q=English">English</a> Languages</li>
 <li>🎂 I'm born on 30th December in 2005 and I am a 15 years old boy</li>
 <li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
-<li>⚙️ My Virtual Hosters: <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, and <a href="https://netlify.com">Netlify</a></li>
 </ul>
 
 
@@ -117,6 +116,29 @@
     <a href="https://json.org" target="_blank">
         <img
             src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+        />
+    </a>
+</p>
+
+
+---
+
+
+<h2 align="center">⚙️ My Virtual Hosters:</h2>
+<p align="center">
+    <a href="https://heroku.com" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=heroku"
+        />
+    </a>
+    <a href="https://vercel.com" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logo=vercel"
+        />
+    </a>
+    <a href="https://netlify.com" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Netlify-black?&style=for-the-badge&logo=netlify"
         />
     </a>
 </p>
