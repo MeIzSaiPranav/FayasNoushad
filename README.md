@@ -2,6 +2,7 @@
 
 
 <ul align="center">
+<samp>
 <li>🏷️ My name is <strong>Fayas</strong> 😎</li>
 <li>🎓 I'm 10th Standard Student of Puliyaparamb Higher Secondary School</li>
 <li>🖥️ Currently Learning Python, HTML etc</li>
@@ -11,6 +12,7 @@
 <li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a> and <a href="https://google.com/search?q=English">English</a> Languages</li>
 <li>🎂 I'm born on 30th December in 2005 and I am a 15 years old boy</li>
 <li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
+</samp>
 </ul>
 
 
