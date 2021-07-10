@@ -12,7 +12,6 @@
 <li>🎂 I'm born on 30th December in 2005 and I am a 15 years old boy</li>
 <li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
 <li>💲 Please donate me via <a href="https://paypal.me/FayasNoushad">PayPal</a></li>
-<li>🔨 My Languages and Tools: <a href="https://www.python.org">Python</a> | <a href="https://html.spec.whatwg.org/">HTML</a> | <a href="https://git-scm.com/">Git</a> | <a href="https://github.com/">GitHub</a> | <a href="https://mongodb.com/">MongoDB</a> | <a href="https://daringfireball.net/projects/markdown/">Markdown</a> | <a href="https://json.org">Json</a></li>
 <li>⚙️ My Virtual Hosters: <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, and <a href="https://netlify.com">Netlify</a></li>
 <li>❤️ My accounts: <a href="https://twitter.com/FayasNoushad">Twitter</a> | <a href="https://instagram.com/TheFayas">Instagram</a> | <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">YouTube</a> | <a href="https://github.com/FayasNoushad">GitHub</a> | <a href="https://gitlab.com/FayasNoushad">GitLab</a> | <a href="https://telegram.me/FayasNoushad">Telegram</a> | <a href="https://www.quora.com/profile/Fayas-Noushad-1">Quora</a></li>
 </ul>
