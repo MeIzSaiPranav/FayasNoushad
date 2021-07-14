@@ -4,7 +4,7 @@
 <ul align="center">
 <samp>
 <li>🏷️ My name is <b>Fayas</b> 😎</li>
-<li>🎓 I'm 10th finished student from Puliyaparamba Higher Secondary School</li>
+<li>🎓 I'm 10th finished student from <a href="https://puliyaparambhs.blogspot.com/">Puliyaparamba Higher Secondary School</a></li>
 <li>🖥️ Currently Learning Python, HTML etc</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">Github</a></li>
 <li>🔭 I'm collaborating in more private or public repositories and organizations</li>
