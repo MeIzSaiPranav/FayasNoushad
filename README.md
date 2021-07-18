@@ -8,7 +8,7 @@
 <li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a> etc</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">Github</a></li>
 <li>🔭 I'm collaborating in more private or public repositories and organizations</li>
-<li>🌐 I'm living in Palakkad, Kerala, India 🇮🇳</li>
+<li>🌐 I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a> 🇮🇳</li>
 <li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a> and <a href="https://google.com/search?q=English">English</a> Languages</li>
 <li>🎂 I'm born on 30th December in 2005 and I am a 15 years old boy</li>
 <li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
