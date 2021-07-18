@@ -5,7 +5,7 @@
 <samp>
 <li>🏷️ My name is <b>Fayas</b> 😎</li>
 <li>🎓 I'm 10th finished student from <a href="https://puliyaparambhs.blogspot.com/">Puliyaparamba Higher Secondary School</a></li>
-<li>🖥️ Currently Learning Python, HTML etc</li>
+<li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a> etc</li>
 <li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">Github</a></li>
 <li>🔭 I'm collaborating in more private or public repositories and organizations</li>
 <li>🌐 I'm living in Palakkad, Kerala, India 🇮🇳</li>
