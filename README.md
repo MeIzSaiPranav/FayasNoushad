@@ -116,6 +116,11 @@
             src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
         />
     </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask"
+        />
+    </a>
     <a href="https://daringfireball.net/projects/markdown/" target="_blank">
         <img
             src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
@@ -147,6 +152,11 @@
     <a href="https://netlify.com" target="_blank">
         <img
             src="https://img.shields.io/badge/Netlify-black?&style=for-the-badge&logo=netlify"
+        />
+    </a>
+    <a href="https://pages.github.com/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/GitHub_Pages-black?&style=for-the-badge&logo=github"
         />
     </a>
 </p>
