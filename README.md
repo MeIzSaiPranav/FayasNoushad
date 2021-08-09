@@ -186,9 +186,6 @@
 </details>
 
 
-#
-
-
 <p align="center">
     <img
         width="49%"
