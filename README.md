@@ -183,6 +183,7 @@
         width="96%"
         src="https://github-profile-trophy.vercel.app/?username=FayasNoushad&theme=darkhub"
     />
+</p>
 </details>
 
 
