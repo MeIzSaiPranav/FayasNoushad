@@ -93,42 +93,42 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Python-black?&style=for-the-badge&logo=python"
+            src="https://img.shields.io/badge/Python-white?&style=for-the-badge&logo=python"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/HTML-black?&style=for-the-badge&logo=html5"
+            src="https://img.shields.io/badge/HTML-white?&style=for-the-badge&logo=html5"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Git-black?&style=for-the-badge&logo=git&logoColor=red"
+            src="https://img.shields.io/badge/Git-white?&style=for-the-badge&logo=git"
         />
     </a>
     <a href="https://github.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColor=black&logo=github"
         />
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/MongoDB-black?&style=for-the-badge&logo=mongodb"
+            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb"
         />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask"
+            src="https://img.shields.io/badge/Flask-white?&style=for-the-badge&logoColor=black&logo=flask"
         />
     </a>
     <a href="https://daringfireball.net/projects/markdown/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
+            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logoColor=black&logo=markdown"
         />
     </a>
     <a href="https://json.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Json-black?&style=for-the-badge&logo=json"
+            src="https://img.shields.io/badge/Json-white?&style=for-the-badge&logoColor=black&logo=json"
         />
     </a>
 </p>
