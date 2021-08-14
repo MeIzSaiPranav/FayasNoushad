@@ -141,22 +141,22 @@
 <p align="center">
     <a href="https://heroku.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Heroku-black?&style=for-the-badge&logo=heroku"
+            src="https://img.shields.io/badge/Heroku-white?&style=for-the-badge&logoColor=blueviolet&logo=heroku"
         />
     </a>
     <a href="https://vercel.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logo=vercel"
+            src="https://img.shields.io/badge/Vercel-white?&style=for-the-badge&logoColor=black&logo=vercel"
         />
     </a>
     <a href="https://netlify.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Netlify-black?&style=for-the-badge&logo=netlify"
+            src="https://img.shields.io/badge/Netlify-white?&style=for-the-badge&logo=netlify"
         />
     </a>
     <a href="https://pages.github.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/GitHub_Pages-black?&style=for-the-badge&logo=github"
+            src="https://img.shields.io/badge/GitHub_Pages-white?&style=for-the-badge&logoColor=black&logo=github"
         />
     </a>
 </p>
