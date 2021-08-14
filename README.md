@@ -35,13 +35,13 @@
     </a>
     <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
         <img
-            src="https://img.shields.io/badge/YouTube-white?&style=for-the-badge&logoColour=red&logo=youtube"
+            src="https://img.shields.io/badge/YouTube-white?&style=for-the-badge&logoColor=red&logo=youtube"
             alt="YouTube"
         />
     </a>
     <a href="https://github.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColour=black&logo=github"
+            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColor=black&logo=github"
             alt="GitHub"
         />
     </a>
@@ -59,7 +59,7 @@
     </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
-            src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logo=quora"
+            src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logoColor=red&logo=quora"
             alt="Quora"
         />
     </a>
