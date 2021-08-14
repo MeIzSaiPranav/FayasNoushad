@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
+            src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
             alt="Twitter"
         />
     </a>
@@ -35,13 +35,13 @@
     </a>
     <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
         <img
-            src="https://img.shields.io/badge/YouTube-red?&style=for-the-badge&logo=youtube"
+            src="https://img.shields.io/badge/YouTube-white?&style=for-the-badge&logoColour=red&logo=youtube"
             alt="YouTube"
         />
     </a>
     <a href="https://github.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
+            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColour=black&logo=github"
             alt="GitHub"
         />
     </a>
@@ -53,13 +53,13 @@
     </a>
     <a href="https://telegram.me/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=telegram"
+            src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         />
     </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
-            src="https://img.shields.io/badge/Quora-red?&style=for-the-badge&logo=quora"
+            src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logo=quora"
             alt="Quora"
         />
     </a>
