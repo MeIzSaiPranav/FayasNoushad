@@ -23,19 +23,19 @@
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter"
+            src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
             alt="Twitter"
         />
     </a>
     <a href="https://instagram.com/TheFayas">
         <img
-            src="https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=instagram"
+            src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram"
             alt="Instagram"
         />
     </a>
     <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
         <img
-            src="https://img.shields.io/badge/YouTube-black?&style=for-the-badge&logo=youtube"
+            src="https://img.shields.io/badge/YouTube-red?&style=for-the-badge&logo=youtube"
             alt="YouTube"
         />
     </a>
@@ -47,25 +47,25 @@
     </a>
     <a href="https://gitlab.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitLab-black?&style=for-the-badge&logo=gitlab"
+            src="https://img.shields.io/badge/GitLab-white?&style=for-the-badge&logo=gitlab"
             alt="GitLab"
         />
     </a>
     <a href="https://telegram.me/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         />
     </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
-            src="https://img.shields.io/badge/Quora-black?&style=for-the-badge&logo=quora"
+            src="https://img.shields.io/badge/Quora-red?&style=for-the-badge&logo=quora"
             alt="Quora"
         />
     </a>
     <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
         <img
-            src="https://img.shields.io/badge/Stack_Overflow-black?&style=for-the-badge&logo=stackoverflow"
+            src="https://img.shields.io/badge/Stack_Overflow-white?&style=for-the-badge&logo=stackoverflow"
             alt="Stack Overflow"
         />
     </a>
