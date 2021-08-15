@@ -75,20 +75,6 @@
 ---
 
 
-<h2 align="center">💲 Please Donate</h2>
-<p align="center">
-    <a href="https://paypal.me/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/PayPal-white?&style=for-the-badge&logo=paypal"
-            alt="PayPal"
-        />
-    </a>
-</p>
-
-
----
-
-
 <h2 align="center">🔨 Languages and Tools</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank">
