@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Twitter-white?&style=for-the-badge&logo=twitter"
+            src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
             alt="Twitter"
         />
     </a>
