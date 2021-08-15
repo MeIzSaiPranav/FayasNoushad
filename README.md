@@ -79,7 +79,7 @@
 <p align="center">
     <a href="https://www.python.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Python-white?&style=for-the-badge&logo=python"
+            src="https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python"
         />
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
