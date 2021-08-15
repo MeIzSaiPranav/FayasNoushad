@@ -99,7 +99,7 @@
     </a>
     <a href="https://mongodb.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/MongoDB-white?&style=for-the-badge&logo=mongodb"
+            src="https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb"
         />
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
