@@ -84,7 +84,7 @@
     </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
-            src="https://img.shields.io/badge/HTML-white?&style=for-the-badge&logo=html5"
+            src="https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
