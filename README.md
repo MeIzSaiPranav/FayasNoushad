@@ -89,7 +89,7 @@
     </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Git-white?&style=for-the-badge&logo=git"
+            src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git"
         />
     </a>
     <a href="https://github.com/" target="_blank">
