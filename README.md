@@ -41,13 +41,13 @@
     </a>
     <a href="https://github.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColor=black&logo=github"
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logoColor=white&logo=github"
             alt="GitHub"
         />
     </a>
     <a href="https://gitlab.com/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/GitLab-white?&style=for-the-badge&logo=gitlab"
+            src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
             alt="GitLab"
         />
     </a>
