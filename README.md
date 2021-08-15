@@ -127,7 +127,7 @@
 <p align="center">
     <a href="https://heroku.com" target="_blank">
         <img
-            src="https://img.shields.io/badge/Heroku-blueviolet?&style=for-the-badge&logoColor=white&logo=heroku"
+            src="https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku"
         />
     </a>
     <a href="https://vercel.com" target="_blank">
