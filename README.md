@@ -89,7 +89,7 @@
     </a>
     <a href="https://daringfireball.net/projects/markdown/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logoColor=black&logo=markdown"
+            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
         />
     </a>
     <a href="https://git-scm.com/" target="_blank">
@@ -109,7 +109,7 @@
     </a>
     <a href="https://flask.palletsprojects.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/Flask-white?&style=for-the-badge&logoColor=black&logo=flask"
+            src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask"
         />
     </a>
     <a href="https://json.org" target="_blank">
