@@ -53,7 +53,7 @@
     </a>
     <a href="https://telegram.me/FayasNoushad">
         <img
-            src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram"
+            src="https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         />
     </a>
