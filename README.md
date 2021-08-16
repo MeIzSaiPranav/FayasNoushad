@@ -87,6 +87,11 @@
             src="https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5"
         />
     </a>
+    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logoColor=black&logo=markdown"
+        />
+    </a>
     <a href="https://git-scm.com/" target="_blank">
         <img
             src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git"
@@ -107,14 +112,9 @@
             src="https://img.shields.io/badge/Flask-white?&style=for-the-badge&logoColor=black&logo=flask"
         />
     </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Markdown-white?&style=for-the-badge&logoColor=black&logo=markdown"
-        />
-    </a>
     <a href="https://json.org" target="_blank">
         <img
-            src="https://img.shields.io/badge/Json-white?&style=for-the-badge&logoColor=black&logo=json"
+            src="https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json"
         />
     </a>
 </p>
