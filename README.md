@@ -59,7 +59,7 @@
     </a>
     <a href="https://www.quora.com/profile/Fayas-Noushad-1">
         <img
-            src="https://img.shields.io/badge/Quora-white?&style=for-the-badge&logoColor=red&logo=quora"
+            src="https://img.shields.io/badge/Quora-C41A00?&style=for-the-badge&logo=quora"
             alt="Quora"
         />
     </a>
