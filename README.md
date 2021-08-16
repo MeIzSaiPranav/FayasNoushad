@@ -1,7 +1,7 @@
 <h1><p align="center">Fayas Noushad</p></h1>
 
 
-<ul align="center">
+<ul align="center" style="list-style-type:none;">
 <samp>
 <li>🏷️ My name is <b>Fayas</b> 😎</li>
 <li>🎓 I'm 10th finished student</li>
