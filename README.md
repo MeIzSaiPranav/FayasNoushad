@@ -94,7 +94,7 @@
     </a>
     <a href="https://github.com/" target="_blank">
         <img
-            src="https://img.shields.io/badge/GitHub-white?&style=for-the-badge&logoColor=black&logo=github"
+            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
         />
     </a>
     <a href="https://mongodb.com/" target="_blank">
