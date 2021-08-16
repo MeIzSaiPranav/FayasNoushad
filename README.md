@@ -65,7 +65,7 @@
     </a>
     <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
         <img
-            src="https://img.shields.io/badge/Stack_Overflow-white?&style=for-the-badge&logo=stackoverflow"
+            src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow"
             alt="Stack Overflow"
         />
     </a>
