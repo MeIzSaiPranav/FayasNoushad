@@ -29,7 +29,7 @@
     </a>
     <a href="https://instagram.com/TheFayas">
         <img
-            src="https://img.shields.io/badge/Instagram-white?&style=for-the-badge&logo=instagram"
+            src="https://img.shields.io/badge/Instagram-D92D77?&style=for-the-badge&logoColor=white&logo=instagram"
             alt="Instagram"
         />
     </a>
