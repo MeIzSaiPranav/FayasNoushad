@@ -5,13 +5,13 @@
 <samp>
 <li>🏷️ My name is <b>Fayas</b> 😎</li>
 <li>🎓 I'm 10th finished student</li>
-<li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a> etc</li>
-<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">Github</a></li>
+<li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a>, etc.</li>
+<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">GitHub</a></li>
 <li>🔭 I'm collaborating in more private or public repositories and organizations</li>
 <li>🌐 I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a> 🇮🇳</li>
-<li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a> and <a href="https://google.com/search?q=English">English</a> Languages</li>
-<li>🎂 I'm born on 30th December in 2005 and I am a 15 years old boy</li>
-<li>🗯️ My favourite quote is <code>Dont judge a book by its cover</code> and <code>Knowledge is power</code></li>
+<li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages</li>
+<li>🎂 I'm born on 30th December in 2005, and I am a 15 years old boy</li>
+<li>🗯️ My favourite quote is <code>Don't judge a book by its cover</code> and <code>Knowledge is power</code></li>
 </samp>
 </ul>
 
@@ -39,12 +39,8 @@
             alt="YouTube"
         />
     </a>
-    <a href="https://github.com/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logoColor=white&logo=github"
-            alt="GitHub"
-        />
-    </a>
+    </p>
+    <p align="center">
     <a href="https://gitlab.com/FayasNoushad">
         <img
             src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
