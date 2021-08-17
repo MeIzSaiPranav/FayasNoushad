@@ -39,8 +39,6 @@
             alt="YouTube"
         />
     </a>
-    </p>
-    <p align="center">
     <a href="https://gitlab.com/FayasNoushad">
         <img
             src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
