@@ -1,5 +1,12 @@
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..)](https://git.io/typing-svg)
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 
 
 <ul align="center" style="list-style-type:none;">
