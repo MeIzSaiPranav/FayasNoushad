@@ -10,9 +10,7 @@ I am a 15 years old boy and a developer.
 - 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam) [Tamil](https://google.com/search?q=Tamil), and [English](https://google.com/search?q=English) languages
 - 🎂 I'm born on 30th December in 2005, and I am a 15 years old boy
 
-
 ---
-
 
 ## My accounts ❤️
 
