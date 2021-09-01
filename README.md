@@ -1,4 +1,4 @@
-## About Me 😁
+## Hello, I am Fayas 👋
 
 - 🏷️ My name is <b>Fayas</b> 😎
 - 🎓 I'm 10th finished student
