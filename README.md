@@ -21,7 +21,7 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 ## Languages and Tools 🔨
 
 [![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
-[![Bash](https://img.shields.io/badge/Bash-inactive?&style=for-the-badge&logoColor=white&logo=bash)](https://www.gnu.org/software/bash/)
+[![Bash](https://img.shields.io/badge/Bash-grey?&style=for-the-badge&logoColor=white&logo=bash)](https://www.gnu.org/software/bash/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
 [![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
