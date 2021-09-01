@@ -29,59 +29,17 @@
 ---
 
 
-<h2>🔨 Languages and Tools</h2>
-<p align="center">
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Bash-black?&style=for-the-badge&logoColor=whitelogo=bash&"
-        />
-    </a>
-    <a href="https://html.spec.whatwg.org/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5"
-        />
-    </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git"
-        />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
-        />
-    </a>
-    <a href="https://mongodb.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb"
-        />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase"
-        />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask"
-        />
-    </a>
-    <a href="https://json.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json"
-        />
-    </a>
-</p>
+## Languages and Tools 🔨
+
+[![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
+[![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
+[![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
+[![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
+[![Json](https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json)](https://json.org)
 
 
 ---
