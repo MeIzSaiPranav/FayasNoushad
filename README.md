@@ -1,9 +1,11 @@
 ## Hello, I am Fayas 👋
 
-I am a 15 years old boy and a developer.
+Q | A
+--- | ---
+Name | Fayas
+Age | 15
+Studiying in | 10th Standard
 
-- 🏷️ My name is <b>Fayas</b> 😎
-- 🎓 I'm 10th finished student
 - 👨🏻‍💻 You can checkout my projects [here](https://projects.fayas.me)
 - 🔭 I'm collaborating in more private or public repositories and organizations
 - 🌐 I'm living in [Palakkad, Kerala, India](https://maps.app.goo.gl/qnG1KWshmAa8UEcf7) 🇮🇳
