@@ -14,14 +14,14 @@
 
 # My accounts ❤️
 
-[![Twitter](https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter)](https://twitter.com/FayasNoushad)
-[![Instagram](https://img.shields.io/badge/Instagram-D92D77?&style=for-the-badge&logoColor=white&logo=instagram)](https://instagram.com/TheFayas)
-[![YouTube](https://img.shields.io/badge/YouTube-FA0001?&style=for-the-badge&logoColor=white&logo=youtube)](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
-[![GitLab](https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab)](https://gitlab.com/FayasNoushad)
-[![Telegram](https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram)](https://telegram.me/FayasNoushad)
-[![Quora](https://img.shields.io/badge/Quora-C41A00?&style=for-the-badge&logo=quora)](https://www.quora.com/profile/Fayas-Noushad-1)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow)](https://stackoverflow.com/users/16129096/fayas-noushad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fayasnoushad)
+- [Twitter](https://twitter.com/FayasNoushad)
+- [Instagram](https://instagram.com/TheFayas)
+- [YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
+- [GitLab](https://gitlab.com/FayasNoushad)
+- [Telegram](https://telegram.me/FayasNoushad)
+- [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
+- [Stack Overflow](https://stackoverflow.com/users/16129096/fayas-noushad)
+- [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
 
 
 ---
