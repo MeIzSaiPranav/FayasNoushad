@@ -6,10 +6,10 @@ Q | A
 **Age** | 15
 **Born on** | 30th December in 2005
 **Studiying in** | 10th Standard Finished
+**Projects** | [projects.fayas.me](https://projects.fayas.me)
 
 ---
 
-- 👨🏻‍💻 You can checkout my projects [here](https://projects.fayas.me)
 - 🔭 I'm collaborating in more private or public repositories and organizations
 - 🌐 I'm living in [Palakkad, Kerala, India](https://maps.app.goo.gl/qnG1KWshmAa8UEcf7) 🇮🇳
 - 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam) [Tamil](https://google.com/search?q=Tamil), and [English](https://google.com/search?q=English) languages
