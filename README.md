@@ -1,172 +1,53 @@
-<!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
+## Hello, I am Fayas 👋
 
+I am a 15 years old boy and a developer.
 
-<ul align="center" style="list-style-type:none;">
-<samp>
-<li>🏷️ My name is <b>Fayas</b> 😎</li>
-<li>🎓 I'm 10th finished student</li>
-<li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a>, etc.</li>
-<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">GitHub</a></li>
-<li>🔭 I'm collaborating in more private or public repositories and organizations</li>
-<li>🌐 I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a> 🇮🇳</li>
-<li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages</li>
-<li>🎂 I'm born on 30th December in 2005, and I am a 15 years old boy</li>
-<li>🗯️ My favourite quote is <code>Don't judge a book by its cover</code> and <code>Knowledge is power</code></li>
-</samp>
-</ul>
+- 🏷️ My name is <b>Fayas</b> 😎
+- 🎓 I'm 10th finished student
+- 👨🏻‍💻 You can checkout my projects [here](https://projects.fayas.me)
+- 🔭 I'm collaborating in more private or public repositories and organizations
+- 🌐 I'm living in [Palakkad, Kerala, India](https://maps.app.goo.gl/qnG1KWshmAa8UEcf7) 🇮🇳
+- 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam) [Tamil](https://google.com/search?q=Tamil), and [English](https://google.com/search?q=English) languages
+- 🎂 I'm born on 30th December in 2005, and I am a 15 years old boy
 
 
 ---
 
 
-<h2 align="center">❤️ My accounts</h2>
-<p align="center">
-    <a href="https://twitter.com/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/Twitter-blue?&style=for-the-badge&logoColor=white&logo=twitter"
-            alt="Twitter"
-        />
-    </a>
-    <a href="https://instagram.com/TheFayas">
-        <img
-            src="https://img.shields.io/badge/Instagram-D92D77?&style=for-the-badge&logoColor=white&logo=instagram"
-            alt="Instagram"
-        />
-    </a>
-    <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
-        <img
-            src="https://img.shields.io/badge/YouTube-FA0001?&style=for-the-badge&logoColor=white&logo=youtube"
-            alt="YouTube"
-        />
-    </a>
-    <a href="https://gitlab.com/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logoColor=white&logo=gitlab"
-            alt="GitLab"
-        />
-    </a>
-    <a href="https://telegram.me/FayasNoushad">
-        <img
-            src="https://img.shields.io/badge/Telegram-2EA3E6?&style=for-the-badge&logo=telegram"
-            alt="Telegram"
-        />
-    </a>
-    <a href="https://www.quora.com/profile/Fayas-Noushad-1">
-        <img
-            src="https://img.shields.io/badge/Quora-C41A00?&style=for-the-badge&logo=quora"
-            alt="Quora"
-        />
-    </a>
-    <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
-        <img
-            src="https://img.shields.io/badge/Stack_Overflow-F48024?&style=for-the-badge&logoColor=white&logo=stackoverflow"
-            alt="Stack Overflow"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/fayasnoushad">
-        <img
-            src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin"
-            alt="LinkedIn"
-        />
-    </a>
-</p>
+## My accounts ❤️
+
+- [Twitter](https://twitter.com/FayasNoushad)
+- [Instagram](https://instagram.com/TheFayas)
+- [YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
+- [GitHub](https://github.com/FayasNoushad)
+- [GitLab](https://gitlab.com/FayasNoushad)
+- [Telegram](https://telegram.me/FayasNoushad)
+- [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
+- [Stack Overflow](https://stackoverflow.com/users/16129096/fayas-noushad)
+- [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
 
 
 ---
 
 
-<h2 align="center">🔨 Languages and Tools</h2>
-<p align="center">
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python"
-        />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Bash-black?&style=for-the-badge&logoColor=whitelogo=bash&"
-        />
-    </a>
-    <a href="https://html.spec.whatwg.org/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5"
-        />
-    </a>
-    <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown"
-        />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git"
-        />
-    </a>
-    <a href="https://github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
-        />
-    </a>
-    <a href="https://mongodb.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb"
-        />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase"
-        />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask"
-        />
-    </a>
-    <a href="https://json.org" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json"
-        />
-    </a>
-</p>
+## Languages and Tools 🔨
 
+[![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
+[![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
+[![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
+[![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
+[![Json](https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json)](https://json.org)
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
+[![Vercel](https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
 
 ---
 
-
-<h2 align="center">⚙️ My Virtual Hosters</h2>
-<p align="center">
-    <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku"
-        />
-    </a>
-    <a href="https://vercel.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel"
-        />
-    </a>
-    <a href="https://netlify.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify"
-        />
-    </a>
-    <a href="https://pages.github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub_Pages-black?&style=for-the-badge&logoColor=white&logo=github"
-        />
-    </a>
-</p>
-
-
----
+## GitHub Stats 📊
 
 <p align="center">
     <img
