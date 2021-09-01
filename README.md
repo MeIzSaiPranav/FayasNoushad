@@ -12,7 +12,7 @@
 ---
 
 
-<h2 align="center">❤️ My accounts</h2>
+<h2>❤️ My accounts</h2>
 <p align="center">
     <a href="https://twitter.com/FayasNoushad">
         <img
@@ -68,7 +68,7 @@
 ---
 
 
-<h2 align="center">🔨 Languages and Tools</h2>
+<h2>🔨 Languages and Tools</h2>
 <p align="center">
     <a href="https://www.python.org" target="_blank">
         <img
@@ -126,7 +126,7 @@
 ---
 
 
-<h2 align="center">⚙️ My Virtual Hosters</h2>
+<h2>⚙️ My Virtual Hosters</h2>
 <p align="center">
     <a href="https://heroku.com" target="_blank">
         <img
