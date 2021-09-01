@@ -1,16 +1,3 @@
-<!-- Typing SVG -->
-<p align="center">
-    <a href="https://git.io/typing-svg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+My+Github+Profile..."
-            alt="Typing SVG"
-        />
-    </a>
-</p>
-
-
-<ul align="center" style="list-style-type:none;">
-<samp>
 <li>🏷️ My name is <b>Fayas</b> 😎</li>
 <li>🎓 I'm 10th finished student</li>
 <li>🖥️ Currently Learning <a href="https://python.org">Python</a>, <a href="https://html.spec.whatwg.org/">HTML</a>, etc.</li>
