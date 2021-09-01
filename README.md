@@ -46,6 +46,8 @@
 
 ---
 
+## GitHub Status 📊
+
 <p align="center">
     <img
         width="49%"
