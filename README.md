@@ -19,6 +19,7 @@
 - [Twitter](https://twitter.com/FayasNoushad)
 - [Instagram](https://instagram.com/TheFayas)
 - [YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
+- [GitHub](https://github.com/FayasNoushad)
 - [GitLab](https://gitlab.com/FayasNoushad)
 - [Telegram](https://telegram.me/FayasNoushad)
 - [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
