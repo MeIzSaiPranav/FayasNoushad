@@ -90,6 +90,11 @@
             src="https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python"
         />
     </a>
+    <a href="https://www.python.org" target="_blank">
+        <img
+            src="https://img.shields.io/badge/Bash-black?&style=for-the-badge&logoColor=whitelogo=bash&"
+        />
+    </a>
     <a href="https://html.spec.whatwg.org/" target="_blank">
         <img
             src="https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5"
