@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Most of my projects are available on <a href="https://github.com/FayasNoushad?tab=repositories">GitHub</a>
 - 🔭 I'm collaborating in more private or public repositories and organizations</li>
 - 🌐 I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a> 🇮🇳
-- 🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages
+- 🗣️ I know [Malayalam](https://google.com/search?q=Malayalam) [Tamil](https://google.com/search?q=Tamil), and [English](https://google.com/search?q=English) languages
 - 🎂 I'm born on 30th December in 2005, and I am a 15 years old boy
 - 🗯️ My favourite quote is <code>Don't judge a book by its cover</code> and <code>Knowledge is power</code>
 
