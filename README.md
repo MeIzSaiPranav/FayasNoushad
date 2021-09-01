@@ -2,10 +2,10 @@
 
 Q | A
 --- | ---
-Name | Fayas
-Age | 15
-Born on | 30th December in 2005
-Studiying in | 10th Standard
+**Name** | Fayas
+**Age** | 15
+**Born on** | 30th December in 2005
+**Studiying in** | 10th Standard Finished
 
 ---
 
