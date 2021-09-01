@@ -19,16 +19,14 @@ I am a 15 years old boy and a developer.
 - [Twitter](https://twitter.com/FayasNoushad)
 - [Instagram](https://instagram.com/TheFayas)
 - [YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
+- [Telegram](https://telegram.me/FayasNoushad)
+- [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
+- [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
 - [GitHub](https://github.com/FayasNoushad)
 - [GitLab](https://gitlab.com/FayasNoushad)
-- [Telegram](https://telegram.me/FayasNoushad)
-- [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
 - [Stack Overflow](https://stackoverflow.com/users/16129096/fayas-noushad)
-- [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
-
 
 ---
-
 
 ## Languages and Tools 🔨
 
