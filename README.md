@@ -40,35 +40,9 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)
 [![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![Json](https://img.shields.io/badge/Json-9A9A9A?&style=for-the-badge&logo=json)](https://json.org)
-
-
----
-
-
-<h2>⚙️ My Virtual Hosters</h2>
-<p align="center">
-    <a href="https://heroku.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku"
-        />
-    </a>
-    <a href="https://vercel.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel"
-        />
-    </a>
-    <a href="https://netlify.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify"
-        />
-    </a>
-    <a href="https://pages.github.com/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/GitHub_Pages-black?&style=for-the-badge&logoColor=white&logo=github"
-        />
-    </a>
-</p>
-
+[![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
+[![Vercel](https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
+[![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
 
 ---
 
