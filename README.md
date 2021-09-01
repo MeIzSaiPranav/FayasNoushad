@@ -7,8 +7,6 @@
 <li>🗣️ I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages</li>
 <li>🎂 I'm born on 30th December in 2005, and I am a 15 years old boy</li>
 <li>🗯️ My favourite quote is <code>Don't judge a book by its cover</code> and <code>Knowledge is power</code></li>
-</samp>
-</ul>
 
 
 ---
