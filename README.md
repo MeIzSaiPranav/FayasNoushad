@@ -1,6 +1,6 @@
 ## Hello, I am Fayas 👋
 
-I am a 15 years old boy and a developer. I am 
+I am a 15 years old boy and a developer.
 
 - 🏷️ My name is <b>Fayas</b> 😎
 - 🎓 I'm 10th finished student
