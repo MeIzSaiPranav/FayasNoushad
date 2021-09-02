@@ -21,9 +21,9 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 ## Languages and Tools 🔨
 
 [![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)
-[![GNU Bash](https://img.shields.io/badge/GNU_Bash-grey?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)
 [![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)
+[![GNU Bash](https://img.shields.io/badge/GNU_Bash-grey?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)
