@@ -32,6 +32,7 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)
 [![Vercel](https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)
 [![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)
+[![Replit](https://img.shields.io/badge/Replit-black?&style=for-the-badge&logoColor=white&logo=replit)](https://replit.com)
 [![Json](https://img.shields.io/badge/Json-grey?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)
 
 ---
