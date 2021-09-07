@@ -52,10 +52,3 @@
 <code>[![Replit](https://img.shields.io/badge/Replit-black?logoColor=white&logo=replit)](https://replit.com)</code>
 
 ---
-
-## GitHub Stats 📊
-
-<p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=FayasNoushad&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=FayasNoushad&theme=tokyonight"/>
-</p>
