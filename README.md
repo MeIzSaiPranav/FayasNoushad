@@ -41,7 +41,7 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 ### Frameworks
 
 [![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
-[![Pyrogram](https://img.shields.io/badge/🔥_Pyrogram-red?&style=for-the-badge&logo=pyrogram)](https://pyrogram.org)
+[![Pyrogram](https://img.shields.io/badge/Pyrogram-red?&style=for-the-badge&logo=pyrogram)](https://pyrogram.org)
 
 ### Virtual Server
 
