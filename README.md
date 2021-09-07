@@ -18,7 +18,7 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 
 ---
 
-## Languages and Tools 🔨
+## Tools 🔨
 
 ### Programming languages
 
