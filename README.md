@@ -22,34 +22,34 @@ My name is **Fayas**. I am a 15 years old boy and I was born on 30th December in
 
 ### Programming languages
 
-<code>[![Python](https://img.shields.io/badge/Python-%2314354C?&style=for-the-badge&logoColor=white&logo=python)](https://www.python.org)</code>
-<code>[![GNU Bash](https://img.shields.io/badge/GNU_Bash-grey?&style=for-the-badge&logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)</code>
-<code>[![HTML](https://img.shields.io/badge/HTML-%23E34F26?&style=for-the-badge&logoColor=white&logo=html5)](https://html.spec.whatwg.org)</code>
-<code>[![Markdown](https://img.shields.io/badge/Markdown-black?&style=for-the-badge&logo=markdown)](https://daringfireball.net/projects/markdown/)</code>
-<code>[![Json](https://img.shields.io/badge/Json-grey?&style=for-the-badge&logoColor=white&logo=json)](https://json.org)</code>
+<code>[![Python](https://img.shields.io/badge/Python-%2314354C?logoColor=white&logo=python)](https://www.python.org)</code>
+<code>[![GNU Bash](https://img.shields.io/badge/GNU_Bash-grey?logoColor=white&logo=gnubash)](https://www.gnu.org/software/bash/)</code>
+<code>[![HTML](https://img.shields.io/badge/HTML-%23E34F26?logoColor=white&logo=html5)](https://html.spec.whatwg.org)</code>
+<code>[![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown)](https://daringfireball.net/projects/markdown/)</code>
+<code>[![Json](https://img.shields.io/badge/Json-grey?logoColor=white&logo=json)](https://json.org)</code>
 
 ### Software and tools
 
-<code>[![Git](https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logoColor=white&logo=git)](https://git-scm.com)</code>
-<code>[![GitHub](https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github)](https://github.com)</code>
+<code>[![Git](https://img.shields.io/badge/Git-F05032?logoColor=white&logo=git)](https://git-scm.com)</code>
+<code>[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com)</code>
 
 ### Database
 
-<code>[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?&style=for-the-badge&logoColor=white&logo=mongodb)](https://mongodb.com)</code>
-<code>[![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?&style=for-the-badge&logoColor=white&logo=firebase)](https://firebase.google.com)</code>
+<code>[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logoColor=white&logo=mongodb)](https://mongodb.com)</code>
+<code>[![Firebase](https://img.shields.io/badge/Firebase-FFCB2D?logoColor=white&logo=firebase)](https://firebase.google.com)</code>
 
 ### Frameworks
 
-<code>[![Flask](https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)</code>
-<code>[![Pyrogram](https://img.shields.io/badge/Pyrogram-red?&style=for-the-badge&logo=pyrogram)](https://pyrogram.org)</code>
+<code>[![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](https://flask.palletsprojects.com)</code>
+<code>[![Pyrogram](https://img.shields.io/badge/Pyrogram-red?logo=pyrogram)](https://pyrogram.org)</code>
 
 ### Virtual Server
 
-<code>[![GitHub](https://img.shields.io/badge/GitHub_Pages-black?&style=for-the-badge&logo=github)](https://pages.github.com)</code>
-<code>[![Heroku](https://img.shields.io/badge/Heroku-%23430098?&style=for-the-badge&logoColor=white&logo=heroku)](https://heroku.com)</code>
-<code>[![Vercel](https://img.shields.io/badge/Vercel-black?&style=for-the-badge&logoColor=white&logo=vercel)](https://vercel.com)</code>
-<code>[![Netlify](https://img.shields.io/badge/Netlify-teal?&style=for-the-badge&logoColor=white&logo=netlify)](https://netlify.com)</code>
-<code>[![Replit](https://img.shields.io/badge/Replit-black?&style=for-the-badge&logoColor=white&logo=replit)](https://replit.com)</code>
+<code>[![GitHub](https://img.shields.io/badge/GitHub_Pages-black?logo=github)](https://pages.github.com)</code>
+<code>[![Heroku](https://img.shields.io/badge/Heroku-%23430098?logoColor=white&logo=heroku)](https://heroku.com)</code>
+<code>[![Vercel](https://img.shields.io/badge/Vercel-black?logoColor=white&logo=vercel)](https://vercel.com)</code>
+<code>[![Netlify](https://img.shields.io/badge/Netlify-teal?logoColor=white&logo=netlify)](https://netlify.com)</code>
+<code>[![Replit](https://img.shields.io/badge/Replit-black?logoColor=white&logo=replit)](https://replit.com)</code>
 
 ---
 
