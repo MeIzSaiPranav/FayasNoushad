@@ -12,6 +12,7 @@ I know [Python](https://www.python.org) and [Markdown](https://daringfireball.ne
 Working with python libraries and application programming interfaces (APIs).
 Contributors are always welcome for my opensource repositories.
 Currently working on [Telegram Helper Bot](https://github.com/TelegramHelpBot).
+I using [Heroku](https://heroku.com), [Vercel](https://vercel.com), [Netlify](https://netlify.com), and [GitHub Pages](https://pages.github.com) for deploying.
 
 ---
 
