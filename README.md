@@ -16,17 +16,35 @@ I using [Heroku](https://heroku.com), [Vercel](https://vercel.com), [Netlify](ht
 
 ---
 
-## My accounts ❤️
-
-- [Twitter](https://twitter.com/FayasNoushad)
-- [Instagram](https://instagram.com/TheFayas)
-- [YouTube](https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA)
-- [Telegram](https://telegram.me/FayasNoushad)
-- [LinkedIn](https://www.linkedin.com/in/fayasnoushad)
-- [Quora](https://www.quora.com/profile/Fayas-Noushad-1)
-- [GitHub](https://github.com/FayasNoushad)
-- [GitLab](https://gitlab.com/FayasNoushad)
-- [Stack Overflow](https://stackoverflow.com/users/16129096/fayas-noushad)
+<p align="center">
+  <a href="https://twitter.com/FayasNoushad">
+    <img src="https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
+  </a>
+  <a href="https://instagram.com/TheFayas">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://youtube.com/channel/UCqC-Yzy8J9FuTH_lDRhBMCA">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCqC-Yzy8J9FuTH_lDRhBMCA?style=for-the-badge&logo=youtube&label=Youtube&color=blue"/>
+  </a>
+  <a href="https://telegram.me/FayasNoushad">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/fayasnoushad">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://www.quora.com/profile/Fayas-Noushad-1">
+    <img src="https://img.shields.io/badge/Quora-grey?style=for-the-badge&logo=quora"/>
+  </a>
+  <a href="https://github.com/FayasNoushad">
+    <img src="https://img.shields.io/github/followers/FayasNoushad?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
+  <a href="https://gitlab.com/FayasNoushad">
+    <img src="https://img.shields.io/badge/GitLab-grey?style=for-the-badge&logo=gitlab"/>
+  </a>
+  <a href="https://stackoverflow.com/users/16129096/fayas-noushad">
+    <img src="https://img.shields.io/badge/Stack_Overflow-grey?style=for-the-badge&logo=stackoverflow"/>
+  </a>
+</p>
 
 ---
 
