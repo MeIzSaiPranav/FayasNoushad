@@ -4,7 +4,7 @@
 My name is <b>Fayas</b>. I am a 15 years old boy and I was born on 30th December in 2005. I am a 10th standard finished student. I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a>. I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages.
 <br/>
 <br/>
-I am an opensource developer. My projects <a href="https://projects.fayas.me">here</a>. I collaborating in more private and public repositories and organizations. I know <a href="https://www.python.org">Python</a> and <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Working with python libraries and application programming interfaces (APIs).
+I am an opensource developer. You can check my projects <a href="https://projects.fayas.me">here</a>. I collaborating in more private and public repositories and organizations. I know <a href="https://www.python.org">Python</a> and <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Working with python libraries and application programming interfaces (APIs).
 <br/>
 <br/>
 Contributors are always welcome for my opensource repositories. I using <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, <a href="https://netlify.com">Netlify</a>, and <a href="https://pages.github.com">GitHub Pages</a> for hosting projects.
