@@ -15,7 +15,7 @@ If you like my opensource repositories? Then please star the repository and plea
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/FayasNoushad">
     <img src="https://img.shields.io/twitter/follow/FayasNoushad?label=Twitter&logo=twitter&style=for-the-badge&color=blue"/>
   </a>
