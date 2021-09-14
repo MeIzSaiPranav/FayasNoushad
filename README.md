@@ -1,6 +1,17 @@
 # Hello, I am Fayas 👋
 
-<p align="center"><samp>My name is <b>Fayas</b>. I am a 15 years old boy and I was born on 30th December in 2005. I am a 10th standard finished student. I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a>. I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages. Coding is my extra carricular activity checkout my projects <a href="https://projects.fayas.me">here</a>. I collaborating in more private and public repositories and organizations. I know <a href="https://www.python.org">Python</a> and <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Working with python libraries and application programming interfaces (APIs). Contributors are always welcome for my opensource repositories. I using <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, <a href="https://netlify.com">Netlify</a>, and <a href="https://pages.github.com">GitHub Pages</a> for hosting projects.</samp></p>
+<samp>
+My name is <b>Fayas</b>. I am a 15 years old boy and I was born on 30th December in 2005. I am a 10th standard finished student. I'm living in <a href="https://maps.app.goo.gl/qnG1KWshmAa8UEcf7">Palakkad, Kerala, India</a>. I know <a href="https://google.com/search?q=Malayalam">Malayalam</a>, <a href="https://google.com/search?q=Tamil">Tamil</a>, and <a href="https://google.com/search?q=English">English</a> languages.
+<br/>
+<br/>
+I am an opensource developer. My projects <a href="https://projects.fayas.me">here</a>. I collaborating in more private and public repositories and organizations. I know <a href="https://www.python.org">Python</a> and <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. Working with python libraries and application programming interfaces (APIs).
+<br/>
+<br/>
+Contributors are always welcome for my opensource repositories. I using <a href="https://heroku.com">Heroku</a>, <a href="https://vercel.com">Vercel</a>, <a href="https://netlify.com">Netlify</a>, and <a href="https://pages.github.com">GitHub Pages</a> for hosting projects.
+<br/>
+<br/>
+If you like my opensource repositories? Then please star the repository and please follow me. If you like to donate for my project / projects you can donate for me ( <a href="https://donate.fayas.me">more info</a> ).
+</samp>
 
 ---
 
